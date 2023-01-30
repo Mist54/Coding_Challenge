@@ -52,6 +52,4 @@ int main() {
         catch(...){
             cout<<"Other Exception"<<endl;
         }
-        
-
 	}
